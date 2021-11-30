@@ -1,0 +1,32 @@
+[main]
+cachedir=/var/cache/yum
+debuglevel=2
+logfile=/var/log/yum.log
+pkgpolicy=newest
+distroverpkg=redhat-release
+tolerant=1
+exactarch=1
+retries=20
+obsoletes=1
+gpgcheck=1
+
+#[base]
+#name=Fedora Core $releasever - $basearch - Base
+#baseurl=http://update.onlinehome-server.info/fedora/linux/core/$releasever/$basearch/os/
+
+#[updates-released]
+#name=Fedora Core $releasever - $basearch - Released Updates
+#baseurl=http://update.onlinehome-server.info/fedora/linux/core/updates/$releasever/$basearch/
+
+#[extras]
+#name=Fedora Extras - $releasever - $basearch
+#baseurl=http://update.onlinehome-server.info/fedora/linux/extras/$releasever/$basearch/
+#gpgcheck=1
+#gpgkey=http://update.onlinehome-server.info/fedora/linux/extras/RPM-GPG-KEY-Fedora-Extras
+
+#[extras-debug]
+#name=Fedora Extras - $releasever - $basearch - Debugging packages
+#baseurl=http://update.onlinehome-server.info/pub/fedora/linux/extras/$releasever/$basearch/debug/
+#gpgcheck=1
+#gpgkey=http://update.onlinehome-server.info/pub/fedora/linux/extras/RPM-GPG-KEY-Fedora-Extras
+#enabled=0
