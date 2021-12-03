@@ -12,7 +12,7 @@ categories:
 ---
 It seems it&#8217;s the season of layoffs, so I wanted to share something that I feel might be useful to anyone affected.
 
-No one likes updating their CV/Resume and attending interviews as the best of times, let alone when you&#8217;re forced to by decisions that aren&#8217;t under your control. Help is at hand though, thanks to a nice free career book and some things we can all do for each other.
+No one likes updating their CV/Resume and attending interviews at the best of times, let alone when you&#8217;re forced to by decisions that aren&#8217;t under your control. Help is at hand though, thanks to a nice free career book and some things we can all do for each other.
 
 # A great career resource, for free
 
