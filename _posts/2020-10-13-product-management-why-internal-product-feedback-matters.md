@@ -7,6 +7,7 @@ layout: post
 categories:
   - Product Management
   - Thoughts from Phil
+  - Personal
 ---
 
 Internal feedback on your product or feature is special, and can help you make better products that your customers' users love, rather than tolerate.
