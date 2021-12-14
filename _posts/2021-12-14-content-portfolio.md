@@ -1,0 +1,41 @@
+---
+title: 'Phil Wiffen - Content Portfolio'
+date: 2021-12-14T12:02:08+00:00
+author: Phil Wiffen
+excerpt: |
+layout: post
+categories:
+  - Personal
+---
+
+## Overview
+
+A unordered list of external-facing content created in previous roles
+
+### Blog post: The Secret Citrix Sysadmins
+
+A post intended to share with the community that there was a team and community inside Citrix helping to validate pre-release products and services, and providing a voice for users and Citrix administrators.
+
+<https://www.citrix.com/blogs/2017/07/10/the-secret-citrix-sysadmins/>
+
+### Webinar: Tech Zone Live - Self-service Microapps for Citrix Virtual Apps and Desktops
+
+Sharing with fellow Citrix sysadmins details of the newly-released Self-Service microapps for Citrix Virtual Apps and Desktops service and Citrix Workspace - a product I originally prototyped, and (with a whole lot of help from many inside Citrix) helped develop into something released to customers.
+
+<https://www.youtube.com/watch?v=HJtkxr5S--o>
+
+### Product Overview video: Citrix Virtual Apps and Desktops microapps
+
+A short video summarising the value of the Citrix Virtual Apps and Desktops microapps.
+
+<https://www.youtube.com/watch?v=PqCgX5k4E0g>
+
+### Podcast: How to Empower Users with Citrix Microapps
+
+A guest on the Citrix Click Down podcast, discussing Citrix Virtual Apps and Desktops microapps.
+
+<https://www.citrix.com/lp/the-click-down/citrix-microapps.html>
+
+### Further content
+
+I have links to more content on my [LinkedIn page](https://www.linkedin.com/in/philwiffen/)
