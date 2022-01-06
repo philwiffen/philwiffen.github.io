@@ -44,7 +44,7 @@ A guest on the Citrix Click Down podcast, discussing Citrix Virtual Apps and Des
 
 ### How to: Build a Simple Citrix Microapp that shows blog posts from a RSS feed
 
-I learned a lot about Citrix Microapps before their release, and at GA (General Availability) wanted to share with the community a way to get started with Microapps that was, for many Citrix administrators, a new concept:
+I learned a lot about Citrix Microapps before their release, and at GA (General Availability) wanted to share with the community a way to get started with something that was, for many Citrix administrators, a new concept:
 
 <https://kabri.uk/2019/12/18/building-a-simple-citrix-microapp-that-shows-blog-posts-from-a-wordpress-rss-feed/>
 
