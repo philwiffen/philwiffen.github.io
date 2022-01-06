@@ -10,7 +10,7 @@ categories:
 
 ## Overview
 
-A unordered list of external-facing content created in previous roles
+An unordered list of external-facing content created in previous roles
 
 ### Blog post: The Secret Citrix Sysadmins
 
