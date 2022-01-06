@@ -18,6 +18,12 @@ A post intended to share with the community that there was a team and community 
 
 <https://www.citrix.com/blogs/2017/07/10/the-secret-citrix-sysadmins/>
 
+### Webinar: How to build on top of Citrix Virtual Apps and Desktops microapps
+
+A webinar recording that covers how anyone with access to Citrix Workspace, CVAD service and microapps can build on top of the template microapps, offering two building projects: A help desk session reset tool, and adding Power On and Power Off Virtual Machine functionality, using the Citrix Cloud public APIs
+
+<https://www.youtube.com/watch?v=kxEMO6bPmfE>
+
 ### Webinar: Tech Zone Live - Self-service Microapps for Citrix Virtual Apps and Desktops
 
 Sharing with fellow Citrix sysadmins details of the newly-released Self-Service microapps for Citrix Virtual Apps and Desktops service and Citrix Workspace - a product I originally prototyped, and (with a whole lot of help from many inside Citrix) helped develop into something released to customers.
